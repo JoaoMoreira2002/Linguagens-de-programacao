@@ -1,0 +1,5 @@
+num = str(input('Digite um número'))
+print('Unidade {}' .format(num.strip()[3]))
+print('Dezena {}' .format(num.strip()[2]))
+print('Centena {}' .format(num.strip()[1]))
+print('Milhar {}' .format(num.strip()[0]))

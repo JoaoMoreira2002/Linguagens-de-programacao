@@ -1,0 +1,2 @@
+C:\Users\A\AppData\Local\Temp\ccCbZ3t3.o	exercicio1.c:(.text+0x6f): undefined reference to `prinf'
+C:\Users\A\Desktop\FACENS\Algoritmos e Programação\Exercícios\If-Else\collect2.exe	[Error] ld returned 1 exit status
